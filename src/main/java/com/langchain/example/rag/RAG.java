@@ -80,7 +80,7 @@ public class RAG {
         this(
                 "src/main/resources",
                 4,
-                0.5
+                0.2
         );
     }
 

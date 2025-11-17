@@ -48,24 +48,24 @@ public class Main {
         System.out.println();
         System.out.println("-".repeat(50));
         String importantText = """
-                Stretching keeps the muscles flexible and healthy, and we need that flexibility to maintain a range of 
-                motion in the joints. Without it, the muscles shorten and become tight. Then, when you call on the 
-                muscles for activity, they are unable to extend all the way. That puts you at risk for joint pain, 
+                Stretching keeps the muscles flexible and healthy, and we need that flexibility to maintain a range of
+                motion in the joints. Without it, the muscles shorten and become tight. Then, when you call on the
+                muscles for activity, they are unable to extend all the way. That puts you at risk for joint pain,
                 strains, and muscle damage.
-                
-                For example, sitting in a chair all day results in tight hamstrings in the back of the thigh. That can 
-                make it harder to extend your leg or straighten your knee all the way, which inhibits walking. 
-                Likewise, when tight muscles are suddenly called on for a strenuous activity that stretches them, such 
-                as playing tennis, they may become damaged from suddenly being stretched. Injured muscles may not be 
+
+                For example, sitting in a chair all day results in tight hamstrings in the back of the thigh. That can
+                make it harder to extend your leg or straighten your knee all the way, which inhibits walking.
+                Likewise, when tight muscles are suddenly called on for a strenuous activity that stretches them, such
+                as playing tennis, they may become damaged from suddenly being stretched. Injured muscles may not be
                 strong enough to support the joints, which can lead to joint injury.
-                
-                Regular stretching keeps muscles long, lean, and flexible, and this means that exertion won't put too 
+
+                Regular stretching keeps muscles long, lean, and flexible, and this means that exertion won't put too
                 much force on the muscle itself. Healthy muscles also help a person with balance problems avoid falls.
-                
-                With a body full of muscles, the idea of daily stretching may seem overwhelming. It's most important to 
-                focus on the body areas needed for critical for mobility: your lower extremities: your calves, your 
-                hamstrings, your hip flexors in the pelvis and quadriceps in the front of the thigh. Stretching your 
-                shoulders, neck, and lower back is also beneficial. Aim for a program of daily stretches, or at least 
+
+                With a body full of muscles, the idea of daily stretching may seem overwhelming. It's most important to
+                focus on the body areas needed for critical for mobility: your lower extremities: your calves, your
+                hamstrings, your hip flexors in the pelvis and quadriceps in the front of the thigh. Stretching your
+                shoulders, neck, and lower back is also beneficial. Aim for a program of daily stretches, or at least
                 three or four times per week.
                 """;
         getKeyPoints(importantText);
